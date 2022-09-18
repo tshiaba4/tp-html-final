@@ -12,12 +12,12 @@ Don Syme est un informaticien australien et chercheur principal à Microsoft Res
  
  
  nom des participants:
- -thiaba ntumba sylvain
+ -tshiaba ntumba sylvain
 -kazadi kalambayi josué (chef de groupe)
 -mpokashi mbwabwa evodi
 -mungomba mulashi esther
-bwattunda masanda franck
-kiteso mazina josephat
-kabange mwepu ken
-kayowa katanga ursule
-ramazani bin saleh berthier 
+-bwattunda masanda franck
+-kiteso mazina josephat
+-kabange mwepu ken
+-kayowa katanga ursule
+-ramazani bin saleh berthier 
